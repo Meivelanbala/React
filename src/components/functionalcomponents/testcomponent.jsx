@@ -5,9 +5,11 @@ function Testcomp() {
 
     return (
         <div>
-            <p>
-                Reterving Class component
-            </p>
+            <center>
+            <h2>
+                Reterving Functional component
+            </h2>
+            </center>
         </div>
     )
 }

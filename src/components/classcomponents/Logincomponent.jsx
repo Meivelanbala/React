@@ -7,10 +7,10 @@ class Login extends React.Component {
     render() {
         return (
             <center>
-                <h1>
+                <h3>
                     Login class component
                     <Classcomp/>
-                </h1>
+                </h3>
             </center>
         )
     }

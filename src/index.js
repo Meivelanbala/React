@@ -3,13 +3,15 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Login from './components/classcomponents/Logincomponent';
+//import Login from './components/classcomponents/Logincomponent';
+//import Testcomp from './components/functionalcomponents/testcomponent';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <div>
-      <Login/>
+      {/* <Testcomp/> */}
+      {/* <Login/> */}
       <App />
     </div>
   </React.StrictMode>
